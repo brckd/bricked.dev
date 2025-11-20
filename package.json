@@ -1,14 +1,14 @@
 {
-  "name": "@bricked/pages",
+  "name": "",
   "private": true,
   "description": "My personal website and blog.",
   "homepage": "https://bricked.dev/",
   "bugs": {
-    "url": "https://github.com/brckd/pages/issues"
+    "url": "https://codeberg.org/bricked/bricked.dev/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brckd/pages.git"
+    "url": "git+https://codeberg.org/bricked/bricked.dev.git"
   },
   "license": "MIT",
   "author": "bricked",
